@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
 s.name         = "CacheManager"
-s.version      = "0.9.0"
+s.version      = "0.9.1"
 s.summary      = "CacheManager"
 
 s.homepage     = "https://github.com/mackoj/CacheManager"
