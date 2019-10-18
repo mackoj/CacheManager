@@ -24,6 +24,6 @@ let package = Package(
         .testTarget(
             name: "CacheManagerTests",
             dependencies: ["CacheManager"]),
-    ]
+    ],
     swiftLanguageVersions: [.v5]
 )
