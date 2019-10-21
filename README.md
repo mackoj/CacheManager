@@ -1,6 +1,8 @@
 # Cache Manager
 
 ```swift
+import Lottie
+
 struct User : Codable, Equatable {
   let id : Int
   let name : String
